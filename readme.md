@@ -19,13 +19,13 @@
 - Desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-    <img alt="Coffee" title="#Coffee" src="./.github/mobile-1.jpg" width="400px"/>
+    <img alt="Coffee" title="#Coffee" src="./.github/desktop-1.jpg" width="400px"/>
 </p>
 
 - Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-    <img alt="Coffee" title="#Coffee" src="./.github/desktop-1.jpg" height="400px"/>
+    <img alt="Coffee" title="#Coffee" src="./.github/mobile-1.jpg" height="400px"/>
 </p>
 
 #### Inspirações para aperfeiçoamentos  
