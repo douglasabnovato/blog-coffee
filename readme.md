@@ -10,7 +10,7 @@
 
 #### Requisitos
 
-- [ ] design personalizado
+- [x] design personalizado
 - [ ] responsividade
 - [ ] favicon
 
